@@ -1,0 +1,1 @@
+This repository contains examples of analysis completed using R throughout my course work. 
